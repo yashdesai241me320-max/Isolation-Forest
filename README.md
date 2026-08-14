@@ -44,7 +44,7 @@ Fraud detection is fundamentally an imbalanced, label-scarce problem: confirmed 
 ## Running It
 
 ```bash
-git clone https://github.com/<your-username>/fraud-anomaly-detection.git
+git clone https://github.com/<yashdesai241me320-max/fraud-anomaly-detection.git
 cd fraud-anomaly-detection
 pip install -r requirements.txt
 # download creditcard.csv from the Kaggle link above and place it in this folder
