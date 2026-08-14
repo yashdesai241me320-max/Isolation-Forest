@@ -31,20 +31,10 @@ Fraud detection is fundamentally an imbalanced, label-scarce problem: confirmed 
 | 80% | 9,206 | 4.3% | 18.7x |
 | 90% | 38,037 | 1.2% | 77.3x |
 
-## Repo Structure
-
-```
-.
-├── Financial_Crimes_Anomaly_Detection.ipynb   # full notebook, pre-executed with outputs/charts
-├── requirements.txt
-├── README.md
-└── .gitignore
-```
-
 ## Running It
 
 ```bash
-git clone https://github.com/<yashdesai241me320-max/fraud-anomaly-detection.git
+git clone https://github.com/yashdesai241me320-max/fraud-anomaly-detection.git
 cd fraud-anomaly-detection
 pip install -r requirements.txt
 # download creditcard.csv from the Kaggle link above and place it in this folder
